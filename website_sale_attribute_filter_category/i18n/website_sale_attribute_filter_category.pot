@@ -17,7 +17,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_sale_attribute_filter_category.products_attributes
 msgid ""
 "<i class=\"fa fa-filter\" aria-hidden=\"true\"/>\n"
-"                <span>Filters by category</span>"
+"                    <span>Filters by category</span>"
 msgstr ""
 
 #. module: website_sale_attribute_filter_category
